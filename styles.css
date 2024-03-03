@@ -1,0 +1,36 @@
+
+#divA {
+    background-color: #1900ff;
+    width: 500px;
+    height: 500px;
+}
+
+
+#divB {
+    background-color: #af4c4c;
+    width: 50%;
+    height: 50%;
+}
+
+
+#divB p {
+    color: white;
+    background-color: #f4367f;
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    padding: 10px;
+}
+
+
+#divD {
+    background-color: #2196f3;
+    width: 50%;
+    height: 50vh;
+}
+
+#divE {
+    background-color: #6cff17;
+    width: 75vw;
+    height: 50%;
+}
